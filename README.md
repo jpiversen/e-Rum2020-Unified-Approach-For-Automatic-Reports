@@ -8,3 +8,10 @@ URL for this workshop Rstudio Cloud material (available for new connections unti
 https://rstudio.cloud/spaces/68613/join?access_code=iK9r7HvoIBiMYtabvcvER%2F0KObdhtxUUoZctMo22
 
 More Details in the *Workshop_synopsis* document.
+
+
+
+## Note
+
+I forked this repo from [muschitiello's github](https://github.com/muschitiello/e-Rum2020-Unified-Approach-For-Automatic-Reports) during eRum june 2020. Any changes after that are just for my own educational purposes. 
+
