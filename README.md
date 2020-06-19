@@ -15,3 +15,21 @@ More Details in the *Workshop_synopsis* document.
 
 I forked this repo from [muschitiello's github](https://github.com/muschitiello/e-Rum2020-Unified-Approach-For-Automatic-Reports) during eRum june 2020. Any changes after that are just for my own educational purposes. 
 
+
+
+## Renv for package management
+
+This project uses `renv` for package mangement. Use the following code to restore packages from the lock.file:
+
+
+
+```R
+if (!require(renv)) install.packages("renv")
+
+renv::restore()
+```
+
+
+
+See the [renv documentation](https://rstudio.github.io/renv/articles/renv.html) for more infomation about `renv`. 
+
